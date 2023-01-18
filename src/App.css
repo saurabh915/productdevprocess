@@ -28,6 +28,189 @@
   color: #61dafb;
 }
 
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  width: 100%;
+  height: 40%;
+}
+
+.rotate{
+  transform: rotate(45deg);
+}
+.c1{
+  position: absolute;
+  top: 176px;
+  left: 85px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+
+.c2{
+  position: absolute;
+  top: 176px;
+  left: 262px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c3{
+  position: absolute;
+  top: 176px;
+  left: 421px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c4{
+  position: absolute;
+  top: 176px;
+  left: 586px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c5{
+  position: absolute;
+  top: 176px;
+  left: 746px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c6{
+  position: absolute;
+  top: 176px;
+  left: 902px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c7{
+  position: absolute;
+  top: 176px;
+  left: 1064px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c8{
+  position: absolute;
+  top: 176px;
+  left: 1235px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c9{
+  position: absolute;
+  top: 176px;
+  left: 1391px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c10{
+  position: absolute;
+  top: 176px;
+  left: 1553px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+.c11{
+  position: absolute;
+  top: 176px;
+  left:1708px;
+  word-wrap: break-word;
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 3px solid white;
+  border-radius: 20%;
+  z-index: 2;
+  padding: 4px;
+}
+
+.container2{
+
+  position: absolute;
+  top: 340px;
+
+}
+.container3{
+  position: absolute;
+  top: 340px;
+  left: 320PX;
+}
+.container4{
+  position: absolute;
+  top: 340px;
+  left: 640px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
